@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/milansharma449" target="blank"><img src="https://img.shields.io/twitter/follow/milansharma449?logo=twitter&style=for-the-badge" alt="milansharma449" /></a> </p>
 
-- 🔭 I’m currently working on **learning Artificial Intelligence and Machine Learning**
+- 🔭 I’m currently working on **improving Artificial Intelligence and Machine Learning skills**
 
 - 🌱 I’m currently learning **AI&ML**
 
