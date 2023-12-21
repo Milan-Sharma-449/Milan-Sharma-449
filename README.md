@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI&ML**
 
-- 🌱 I’m persuing **Master's of Engineering in CSE specialized in AIML**
+- 🧑‍🎓 I’m persuing **Master's of Engineering in CSE specialized in AIML**
 
 - 👯 I’m looking to collaborate on **Machine Learing**
 
