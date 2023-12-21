@@ -7,21 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/milansharma449" target="blank"><img src="https://img.shields.io/twitter/follow/milansharma449?logo=twitter&style=for-the-badge" alt="milansharma449" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack project**
+- 🔭 I’m currently working on **learning Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently learning **JavaScript concepts**
+- 🌱 I’m currently learning **AI&ML**
 
-- 👯 I’m looking to collaborate on **web dev**
+- 🌱 I’m persuing **Master's of Engineering in CSE specialized in AIML**
 
-- 🤝 I’m looking for help with **MERN projects**
+- 👯 I’m looking to collaborate on **Machine Learing**
 
-- 👨‍💻 All of my projects are available at [https://milan-sharma-449.github.io/Portfolio-react/](https://milan-sharma-449.github.io/Portfolio-react/)
+- 🤝 I’m looking for help with **Data Analytics**
 
-- 💬 Ask me about **react, html, css**
+- 👨‍💻 All of my projects are available at [https://milansharma.me/projects](https://milansharma.me/projects/)
+
+- 💬 Ask me about **react, html, css, Java, Python, Oops, Data Structures, Algorithms, Front End, Artificial Intelligence, Machine Learning, Data Analytics, Data Mining, Internet Of Things, DBMS, Sql, Json**
 
 - 📫 How to reach me **milansharma449@gmail.com**
 
-- 📄 Know about my experiences [https://milansharma449portfolio.netlify.app/](https://milansharma449portfolio.netlify.app/)
+- 📄 Know about my experiences [https://milansharma.me](https://milansharma.me)
 
 - ⚡ Fun fact **I think I am funny**
 
