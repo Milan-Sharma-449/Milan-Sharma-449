@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://milansharma.me/projects](https://milansharma.me/projects/)
 
-- 💬 Ask me about **react, html, css, Java, Python, Oops, Data Structures, Algorithms, Front End, Artificial Intelligence, Machine Learning, Data Analytics, Data Mining, Internet Of Things, DBMS, Sql, Json**
+- 💬 Ask me about **React, Html, Css, Java, Python, Oops, Data Structures, Algorithms, Front End, Artificial Intelligence, Machine Learning, Data Analytics, Data Mining, Internet Of Things, DBMS, Sql, Json**
 
 - 📫 How to reach me **milansharma449@gmail.com**
 
