@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://milansharma.me/projects](https://milansharma.me/projects/)
+- 👨‍💻 All of my projects are available at [https://milansharma.in/projects](https://milansharma.in/projects/)
 
 - 💬 Ask me about **React, Html, Css, Java, Python, Oops, Data Structures, Algorithms, Front End, Artificial Intelligence, Machine Learning, Data Analytics, Data Mining, Internet Of Things, DBMS, Sql, Json**
 
 - 📫 How to reach me **milansharma449@gmail.com**
 
-- 📄 Know about my experiences [https://milansharma.me](https://milansharma.me)
+- 📄 Know about my experiences [https://milansharma.in](https://milansharma.in)
 
 - ⚡ Fun fact **I think I am funny**
 
