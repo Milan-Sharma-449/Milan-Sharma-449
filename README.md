@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/milansharma449" target="blank"><img src="https://img.shields.io/twitter/follow/milansharma449?logo=twitter&style=for-the-badge" alt="milansharma449" /></a> </p>
 
-- 🔭 I’m currently working on **improving Artificial Intelligence and Machine Learning skills**
+- 🔭 I’m currently working on **Improving Development skills**
 
-- 🌱 I’m currently learning **AI&ML**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 🧑‍🎓 I’m persuing **Master's of Engineering in CSE specialized in AIML**
+- 🧑‍🎓 I pursued **Master's of Engineering in CSE specialized in AIML**
 
 - 👯 I’m looking to collaborate on **Machine Learing**
 
